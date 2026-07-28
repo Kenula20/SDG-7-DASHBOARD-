@@ -22,7 +22,7 @@ This project is an interactive Power BI dashboard developed to analyze global pr
 - `EG_ACS_ELEC.xlsx` – Electricity access dataset
 - `EG_EGY_CLEAN.xlsx` – Clean energy dataset
 - `EG_IFF_RANDN.xlsx` – Investment dataset
-- `image.png` – Dashboard preview
+- `Screenshot` – Dashboard preview
 
 ## 📷 Dashboard Preview
 

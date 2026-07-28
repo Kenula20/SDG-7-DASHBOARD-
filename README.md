@@ -27,7 +27,9 @@ This project is an interactive Power BI dashboard developed to analyze global pr
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard Preview .png)
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
 
 ## 🎯 Key Insights
 - Electricity access has improved across many regions.

@@ -40,7 +40,7 @@ This project is an interactive **Power BI dashboard** developed to analyze globa
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Dashboard Preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
